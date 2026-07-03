@@ -1,87 +1,23 @@
-件名: [公募Watch] 2026-07-03 新規 135 / 更新 0
+件名: [公募Watch] 2026-07-03 新規 4 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JST] ファンディング(プロジェクト管理等)／AI for Science革新的研究推進事業（ARiSE）マテリアル / 主任専門員・専門員
-    タグ: URA/研究推進,ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260624_arise02.pdf
+△ [JST] 総務・人事労務／総務担当 / 主任専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu260703_souhatsu.pdf
 
-◎ [JST] ファンディング(プロジェクト管理等)／AI for Science革新的研究推進事業（ARiSE) / 主任専門員・専門員
-    タグ: URA/研究推進,ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260624_arise.pdf
+△ [理研] 人事統括本部 人事労務部 職員環境課 - 事務業務員募集（WG26-0788）
+    タグ: - | 締切: 2026年7月21日 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/admin/20260703_1/index.html
 
-◎ [JST] ファンディング(プロジェクト管理等)／戦略的創造研究推進事業（ERATO）ICT分野 / 主任専門員・専門員
-    タグ: URA/研究推進,ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260624_erato.pdf
+× [理研] 数理創造研究センター 数理基礎部門 - 研究員または特別研究員募集（26-714） (PI: 部門長：磯 暁)
+    タグ: - | 締切: ポストが決まり次第 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/researchers/20260622_1/index.html
 
-◎ [JST] ファンディング(プロジェクト管理等)／日本の科学技術を変える「研究開発マネジメント人材」 / 研究開発マネジメント専門員
-    タグ: PO/PM系,ファンディング | 締切: 2026年07月13日 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/personnel/3rd-div/rdm/recruit.html
-
-◎ [JST] ファンディング(プロジェクト管理等)／戦略的創造研究推進事業（ERATO）物理分野 / 主任専門員
-    タグ: URA/研究推進,ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260507_erato.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／戦略的創造研究推進事業（ERATO）ライフサイエンス分野 / 主任専門員・専門員
-    タグ: URA/研究推進,ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu250422_erato01.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／CREST・さきがけ（化学、物性・材料、量子、デバイス等分野） / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260616_kisoken.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／ムーンショット型研究開発事業（目標２） / 技術主幹
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260615_MS02.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／ムーンショット型研究開発事業（目標１０） / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260615_MS01.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／戦略的国際共同研究プログラム（SICORP）等 / 専門員・主任専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260608_sicorp.pdf
-
-◎ [JST] ファンディング（プロジェクト管理等）／ムーンショット型研究開発事業（目標１０） / 技術主幹
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260522_MS02.pdf
-
-◎ [JST] ファンディング（プロジェクト管理等）／ムーンショット型研究開発事業（目標８） / 技術主幹
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260522_MS.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／ASPIRE / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260519_aspire.pdf
-
-◎ [JST] 調査・分析・発表／CRDS調査・分析／AI for Science・研究基盤・産学連携 / フェロー
-    タグ: 産学連携/技術移転 | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260518_crds.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／「日ASEAN科学技術・イノベーション協働連携事業」(NEXUS) / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260511_nexus.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／CRONOS / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260130_cronos.pdf
-
-◎ [JST] 知的財産／知財集約・活用（ライセンス担当材料系） / 主任専門員
-    タグ: 産学連携/技術移転 | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu251111_chizai02.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／A-STEP（ICT、電子デバイス、ものづくり分野） / 主任専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu251021_a-step02.pdf
-
-◎ [JST] ファンディング(プロジェクト管理等)／ムーンショット型研究開発事業（目標３） / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu260413_MS.pdf
-
-◎ [理研] 計算科学研究センター センター長室 - 高度研究支援専門職または研究⽀援専⾨職（無期雇用職員）募集（26-647）
-    タグ: URA/研究推進 | 締切: 2026年8月17日 | 勤務地: 兵庫県神戸市
-    https://www.riken.jp/careers/research-admin/20260702_1/index.html
+× [理研] 生命機能科学研究センター 生体模倣システム研究チーム - 特別研究員募集（26-810） (PI: チームディレクター: 萩原 将也)
+    タグ: - | 締切: ポストが決まり次第 | 勤務地: 兵庫県神戸市
+    https://www.riken.jp/careers/researchers/20260703_1/index.html
 
 
 ▼ 更新公募
