@@ -1,26 +1,32 @@
-件名: [公募Watch] 2026-07-17 新規 4 / 更新 1
+件名: [公募Watch] 2026-07-17 新規 6 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 先端科学・社会共創推進機構] 先端科学・社会共創推進機構　特任教員（知財・マーケティング担当URA）の公募
-    タグ: URA/研究推進,産学連携/技術移転 | 締切: 2026年07月16 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126071397
+△ [JST] IT・システム／サイエンスポータル・サイエンスティーム / 主任専門員・専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu260717_portal.pdf
 
-◎ [JREC-IN URA / 名古屋大学] 学術研究・産学官連携推進本部 イノベーション・アントレプレナーシップ推進室リサーチ・アドミニストレーター(URA)の公募（2026年11月1日以降早期～2028年3月31日）
-    タグ: URA/研究推進,産学連携/技術移転 | 締切: 2026年07月16 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126071377
+△ [理研] 開拓研究所 小林固体化学研究室 - 研究員（無期雇用職）募集（26-837） (PI: 主任研究員: 小林 玄器)
+    タグ: - | 締切: 2026年8月31日 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/researchers/20260717_2/index.html
 
-◎ [JREC-IN URA / 先端科学・社会共創推進機構] 先端科学・社会共創推進機構　特任教員（未来知実証センター担当URA）の公募
-    タグ: URA/研究推進 | 締切: 2026年07月16 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126071395
+△ [理研] 開拓研究所 伊丹分子創造研究室 - 研究員募集（無期雇用職員）（26-831） (PI: 主任研究員: 伊丹 健一郎)
+    タグ: - | 締切: 2026年8月31日 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/researchers/20260717_1/index.html
 
-× [理研] 経理・調達本部 経理部 神戸会計課 - 事務パートタイマーⅡ募集（26-911）
-    タグ: - | 締切: ポストが決まり次第 | 勤務地: 兵庫県神戸市
-    https://www.riken.jp/careers/admin/20260716_1/index.html
+△ [NICT] 2026A-169
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-169.pdf
+
+△ [NICT] 2026A-170
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-170.pdf
+
+△ [JREC-IN URA / 国立研究開発法人情報通信研究機構] ＮＩＣＴ有期一般職公募 (公募No.2026A-29）
+    タグ: - | 締切: 2026年07月17 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126071575
 
 
 ▼ 更新公募
 ------------------------------------------------------------
-・[JAMSTEC(via JREC-IN)] 変動海洋エコシステム高等研究所 AIMEC研究員もしくはAIMECポストドクトラル研究員　(WAM26-001)
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126070810
