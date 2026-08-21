@@ -1,48 +1,54 @@
-件名: [公募Watch] 2026-08-20 新規 10 / 更新 0
+件名: [公募Watch] 2026-08-21 新規 11 / 更新 1
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-△ [NICT] 2026A-172
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-172.pdf
+◎ [JREC-IN URA / 国立大学法人熊本大学] 国立大学法人熊本大学　URA（職名：研究コーディネーター）【研究推進系】の公募
+    タグ: URA/研究推進 | 締切: 2026年08月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081246
 
-△ [NICT] 2026A-173
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-173.pdf
+△ [JST] 知的財産／権利化支援・特許相談（電気・電子分野） / 主任専門員・特許主任専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu260821_chizai.pdf
 
-△ [NICT] 2026A-174
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-174.pdf
+△ [理研] 理化学研究所 事務部門および施設・安全管理部門 - 事務業務員募集
+    タグ: - | 締切: 2026年9月24日 | 勤務地: 埼玉県和光市 茨城県つくば市 神奈川県横浜市 兵庫県神戸市
+    https://www.riken.jp/careers/admin/20260821/index.html
 
-△ [NICT] 2026A-171
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-171.pdf
+△ [理研] 経理・調達本部 経理部 神戸会計課 - 神戸地区事務業務員募集（KG26-1106）
+    タグ: - | 締切: 2026年9月24日 | 勤務地: 兵庫県神戸市
+    https://www.riken.jp/careers/admin/20260821_4/index.html
 
-△ [JREC-IN URA] 開発部　正社員の公募（フルスタックエンジニア）
-    タグ: - | 締切: 2026年08月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081137
+△ [理研] 安全・地区統括本部 横浜事業部 地区統括課 / 安全管理部 横浜安全管理課 - 横浜地区事務業務員募集（YG26-1105）
+    タグ: - | 締切: 2026年9月24日 | 勤務地: 神奈川県横浜市
+    https://www.riken.jp/careers/admin/20260821_3/index.html
 
-△ [JREC-IN URA] 開発部　正社員の公募（技術開発エンジニア）
-    タグ: - | 締切: 2026年08月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081128
+△ [理研] 施設部筑波施設課 - 筑波地区事務業務員募集（TG26-1104）
+    タグ: - | 締切: 2026年9月24日 | 勤務地: 茨城県つくば市
+    https://www.riken.jp/careers/admin/20260821_2/index.html
 
-△ [JREC-IN URA] コンサルティング部　正社員の公募（建設・環境コンサルタント）
-    タグ: - | 締切: 2026年08月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081126
+△ [理研] 連携促進部 連携促進課、経理・調達本部外部資金部、経理・調達本部調達部 和光調達第1課/和光調達第2課、人事統括本部 人材戦略部人事企画課/人事労務部 職員環境課 - 和光地区事務業務員募集（WG26-1103）
+    タグ: - | 締切: 2026年9月24日 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/admin/20260821_1/index.html
 
-× [理研] 開拓研究所 小林固体化学研究室 - 特別研究員（26-1122） (PI: 主任研究員：小林 玄器)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20260820_3/index.html
+△ [JREC-IN URA / 自然科学研究機構] 特任専門員の公募（安全保障貿易管理、研究インテグリティ・研究セキュリティ）
+    タグ: - | 締切: 2026年08月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081255
 
-× [理研] 環境資源科学研究センター 環境代謝分析研究チーム - 研究員または特別研究員募集（26-1141） (PI: チームディレクター：菊地 淳)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 神奈川県横浜市
-    https://www.riken.jp/careers/researchers/20260820_2/index.html
+△ [JREC-IN URA / 国立研究開発法人日本医療研究開発機構] AMED任期制職員の募集（A26-28_再生・細胞医療・遺伝子治療事業部 遺伝子治療研究開発課）
+    タグ: - | 締切: 2026年08月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081182
 
-× [理研] 環境資源科学研究センター バイオ高分子研究チーム - 特別研究員募集（26-1118） (PI: チームディレクター：沼田 圭司)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: その他
-    https://www.riken.jp/careers/researchers/20260820_1/index.html
+△ [JREC-IN URA] 大阪【契約社員】サンゴ礁をはじめとした海洋生態系保全技術の研究員(修士卒以上)
+    タグ: - | 締切: 2026年08月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126081171
+
+× [理研] バイオリソース研究センター ゲノム可塑性発生制御研究チーム - 特別研究員募集（26-1110） (PI: チームディレクター：坂下 陽彦)
+    タグ: - | 締切: 2026年9月30日 | 勤務地: 茨城県つくば市
+    https://www.riken.jp/careers/researchers/20260821_1/index.html
 
 
 ▼ 更新公募
 ------------------------------------------------------------
+・[JREC-IN URA] 【契約社員】サンゴ礁をはじめとした海洋生態系保全技術の研究員(修士卒以上)
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126080999
