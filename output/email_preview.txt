@@ -1,19 +1,31 @@
-件名: [公募Watch] 2026-09-15 新規 3 / 更新 0
+件名: [公募Watch] 2026-09-16 新規 6 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-× [理研] 環境資源科学研究センター ケミカルバイオロジー・生合成研究チーム - 研究パートタイマーⅠまたはⅡ募集（26-1305） (PI: チームディレクター：淡川 孝義)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20260915_3/index.html
+◎ [JREC-IN URA / 【公募延長】千葉大学] 【公募延長】千葉大学 未来医療教育研究機構 高度特定専門員（リサーチアドミニストレーター（URA））募集要項
+    タグ: URA/研究推進 | 締切: 2026年09月16 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126091212
 
-× [理研] 環境資源科学研究センター 天然物生合成研究ユニット - 研究員または特別研究員募集（26-1318） (PI: ユニットリーダー：高橋 俊二)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20260915_1/index.html
+△ [理研] 理化学研究所 - 2027年度 大学院生リサーチ・アソシエイト 募集要項（JRA27）
+    タグ: - | 締切: 2026年10月16日 | 勤務地: 埼玉県和光市 茨城県つくば市 東京都 神奈川県横浜市 けいはんな学研都市 兵庫県神戸市 播磨科学公園都市 その他
+    https://www.riken.jp/careers/programs/jra/jra2027/index.html
 
-× [理研] 環境資源科学研究センター 触媒・融合研究グループ - 特別研究員募集（26-1316） (PI: グループディレクター：袖岡 幹子)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20260915_2/index.html
+△ [NICT] 2026A-175
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-175.pdf
+
+△ [NICT] 2026A-178
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-178.pdf
+
+△ [NICT] 2026A-176
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-176.pdf
+
+△ [NICT] 2026A-177
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-177.pdf
 
 
 ▼ 更新公募
