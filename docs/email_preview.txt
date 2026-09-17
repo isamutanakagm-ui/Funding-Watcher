@@ -1,31 +1,15 @@
-件名: [公募Watch] 2026-09-16 新規 6 / 更新 0
+件名: [公募Watch] 2026-09-17 新規 2 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 【公募延長】千葉大学] 【公募延長】千葉大学 未来医療教育研究機構 高度特定専門員（リサーチアドミニストレーター（URA））募集要項
-    タグ: URA/研究推進 | 締切: 2026年09月16 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126091212
+△ [JREC-IN URA / 国立健康危機管理研究機構] NDB・医療情報データ利活用支援研究員（非常勤）
+    タグ: - | 締切: 2026年09月17 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126091290
 
-△ [理研] 理化学研究所 - 2027年度 大学院生リサーチ・アソシエイト 募集要項（JRA27）
-    タグ: - | 締切: 2026年10月16日 | 勤務地: 埼玉県和光市 茨城県つくば市 東京都 神奈川県横浜市 けいはんな学研都市 兵庫県神戸市 播磨科学公園都市 その他
-    https://www.riken.jp/careers/programs/jra/jra2027/index.html
-
-△ [NICT] 2026A-175
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-175.pdf
-
-△ [NICT] 2026A-178
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-178.pdf
-
-△ [NICT] 2026A-176
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-176.pdf
-
-△ [NICT] 2026A-177
-    タグ: - | 締切:  | 勤務地: 
-    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-177.pdf
+× [理研] バイオリソース研究センター 微生物ゲノミクス理研ECL研究ユニット - 研究員または特別研究員募集（26-1319） (PI: 理研ECL研究ユニットリーダー：按田 瑞恵)
+    タグ: - | 締切: 2026年10月31日 | 勤務地: 茨城県つくば市
+    https://www.riken.jp/careers/researchers/20260917_1/index.html
 
 
 ▼ 更新公募
