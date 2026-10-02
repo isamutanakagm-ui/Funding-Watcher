@@ -1,32 +1,54 @@
-件名: [公募Watch] 2026-10-01 新規 6 / 更新 0
+件名: [公募Watch] 2026-10-02 新規 11 / 更新 1
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 東京科学大学] リサーチ・アドミニストレーターの公募（令和8年11月2日締切）
-    タグ: URA/研究推進 | 締切: 2026年09月29 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126091927
+◎ [JREC-IN URA / URAの公募（東北大学国際集積エレクトロニクス研究開発センター/東北大学半導体テクノロジー共創体/東北大学] 教員（教授、准教授、助教）、研究員、URAの公募（東北大学国際集積エレクトロニクス研究開発センター/東北大学半導体テクノロジー共創体/東北大学研究推進・支援機構）
+    タグ: URA/研究推進 | 締切: 2026年10月01 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100049
 
-◎ [JREC-IN URA / 東邦大学] リサーチ・アドミニストレーター（URA）公募
-    タグ: URA/研究推進 | 締切: 2026年09月29 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126091916
+△ [JST] 総務・人事労務／給与・社保 / 専門員
+    タグ: - | 締切: 随時 | 勤務地: 埼玉県川口市
+    https://www.jst.go.jp/saiyou/pdf/bosyu261001_jinzai.pdf
 
-△ [理研] 開拓研究所 川口生体非平衡物理学研究室 - テクニカルスタッフⅠ 募集（26-1452） (PI: 主任研究員：川口 喬吾)
+△ [JST] Web／研究公正 / 専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu261001_houmu.pdf
+
+△ [JST] 広報・アウトリーチ／ムーンショット型研究開発事業 / 専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu261001_MS02.pdf
+
+△ [JST] 委託研究契約関連事務／ムーンショット型研究開発事業 / 専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu261001_MS01.pdf
+
+△ [NICT] 2026A-179
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/saishin/2026A-179.pdf
+
+△ [JAMSTEC(via JREC-IN)] 地球環境研究部門　環境変動予測研究センター　基盤的気候モデル開発応用グループ　副主任研究員もしくは研究員　（AKS26-015）
+    タグ: - | 締切: 2026年10月01 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100076
+
+× [理研] 脳神経科学研究センター 神経動態医科学連携研究チーム - 研究パートタイマーⅠ募集（26-1420） (PI: チームディレクター：中冨 浩文)
     タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261001_2/index.html
+    https://www.riken.jp/careers/researchers/20261001_5/index.html
 
-△ [JAMSTEC(via JREC-IN)] 物質地球科学研究部門　生物地球化学センター　副主任研究員もしくは研究員　（BKS26-002）
-    タグ: - | 締切: 2026年09月30 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126092036
+× [理研] 生命医科学研究センター 免疫器官形成研究チーム - 研究パートタイマー募集（26-1321） (PI: チームディレクター：古関 明彦)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 神奈川県横浜市
+    https://www.riken.jp/careers/researchers/20261001_4/index.html
 
-△ [JREC-IN URA / 国立研究開発法人理化学研究所] 研究⽀援専⾨職（無期雇用職員）募集（26-1349）(革新知能統合研究センター センター長室)
-    タグ: - | 締切: 2026年09月30 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126092042
+× [理研] 生命機能科学研究センター 細胞システム動態予測研究チーム - パートタイマー募集（26-1450） (PI: チームディレクター：城口 克之)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 兵庫県神戸市
+    https://www.riken.jp/careers/researchers/20261001_1/index.html
 
-× [理研] 数理創造研究センター 数理基礎部門 - 上級研究員または研究員または特別研究員募集（26-1354） (PI: 部門長：磯 暁)
-    タグ: - | 締切: 2026年11月20日 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20260930_1/index.html
+× [理研] 生命医科学研究センター 生体内タンパク質構造解析研究チーム - 研究員または特別研究員募集（26-1329） (PI: チームディレクター：谷口 怜哉)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 神奈川県横浜市
+    https://www.riken.jp/careers/researchers/20261001_3/index.html
 
 
 ▼ 更新公募
 ------------------------------------------------------------
+・[JREC-IN URA / 東京科学大学] リサーチ・アドミニストレーターの公募（令和8年11月2日締切）
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126091927
