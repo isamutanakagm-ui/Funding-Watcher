@@ -1,27 +1,19 @@
-件名: [公募Watch] 2026-10-08 新規 5 / 更新 0
+件名: [公募Watch] 2026-10-09 新規 3 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-△ [JST] 総務・人事労務／人事担当 / 専門員・主任専門員
-    タグ: - | 締切: 随時 | 勤務地: 東京都江東区
-    https://www.miraikan.jst.go.jp/aboutus/recruitment/20261007/
+△ [JREC-IN URA / 大阪大学] 大阪大学 経営企画オフィス IR部門　准教授または講師または助教の公募
+    タグ: - | 締切: 2026年10月08 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100542
 
-△ [理研] 最先端研究プラットフォーム連携（TRIP）事業本部 先端半導体科学プログラム プロセッサ設計プラットフォームチーム - テクニカルスタッフⅠ募集（26-1464） (PI: チームディレクター：泰地 真弘人)
+△ [JREC-IN URA / 大阪大学] 大阪大学 経営企画オフィス IR部門 特任教員（常勤）／特任学術政策研究員（常勤）公募
+    タグ: - | 締切: 2026年10月08 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100541
+
+× [理研] 数理創造研究センター 数理基礎部門 圏論的物理学理研ECL研究ユニット - 特別研究員募集（26-1454） (PI: 理研ECL研究ユニットリーダー：大森 寛太郎)
     タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261007_1/index.html
-
-△ [JAMSTEC(via JREC-IN)] 東京農工大学BX・GX特任助教公募(1名)
-    タグ: - | 締切: 2026年10月07 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100451
-
-△ [JAMSTEC(via JREC-IN)] 技術研究開発部門　スマートセンシング技術開発センター　固体量子センシンググループ　特任研究員　（KGS26-003）
-    タグ: - | 締切: 2026年10月07 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100452
-
-△ [JREC-IN URA / 九州大学] 国際戦略企画室（日本留学促進のための海外ネットワーク機能強化事業・学術研究員）
-    タグ: - | 締切: 2026年10月07 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100445
+    https://www.riken.jp/careers/researchers/20261006_1/index.html
 
 
 ▼ 更新公募
