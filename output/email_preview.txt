@@ -1,35 +1,35 @@
-件名: [公募Watch] 2026-10-20 新規 7 / 更新 0
+件名: [公募Watch] 2026-10-21 新規 7 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 先端科学・社会共創推進機構] 先端科学・社会共創推進機構　特任教員（EPOCH担当URA・PM）の公募
-    タグ: PO/PM系,URA/研究推進 | 締切: 2026年10月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101386
+◎ [JREC-IN URA / 東京科学大学] リサーチ・アドミニストレーター（シニア URA）の公募（令和8年11月20日締切）
+    タグ: URA/研究推進 | 締切: 2026年10月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101343
 
-◎ [JREC-IN URA / 先端科学・社会共創推進機構] 先端科学・社会共創推進機構　特任教員（EPOCH担当URA・生命科学）の公募
-    タグ: PO/PM系,URA/研究推進 | 締切: 2026年10月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101385
+△ [理研] 生命医科学研究センター センター長室 - 研究⽀援専⾨職（無期雇用職員）募集（26-1572）
+    タグ: - | 締切: 2026年11月30日 | 勤務地: 神奈川県横浜市
+    https://www.riken.jp/careers/research-admin/20261021_1/index.html
 
-◎ [JREC-IN URA / 先端科学・社会共創推進機構] 先端科学・社会共創推進機構　特任教員（EPOCH担当URA・未来知）の公募
-    タグ: PO/PM系,URA/研究推進 | 締切: 2026年10月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101384
-
-△ [JST] 専門用語体系の整備及び文献DB品質管理／JST情報事業（機械工学分野担当） / 主任専門員・専門員
-    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu261020_jipsti.pdf
-
-△ [理研] 生命医科学研究センター 転写制御構造生物学研究チーム - 研究員募集（26-1430） (PI: チームディレクター：関根 俊一)
+△ [理研] 生命医科学研究センター 免疫器官形成研究チーム - 研究員およびテクニカルスタッフⅡ募集（26-1521） (PI: チームディレクター：古関 明彦)
     タグ: - | 締切: 候補者が決まり次第 | 勤務地: 神奈川県横浜市
-    https://www.riken.jp/careers/researchers/20261020_1/index.html
+    https://www.riken.jp/careers/researchers/20261021_2/index.html
 
-△ [JREC-IN URA] Clinical Site Manager II（後期フェーズ/臨床開発モニター/ Site Monitor/ CRA）
-    タグ: - | 締切: 2026年10月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101431
+△ [理研] 最先端研究プラットフォーム連携（TRIP）事業本部 基礎量子科学研究プログラム - 研究員（FQSP Distinguished Fellowships制度）募集（26-1294） (PI: プログラムディレクター：永長 直人)
+    タグ: - | 締切: 2026年12月14日 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/researchers/20261021_1/index.html
 
-× [理研] 数理創造研究センター 数理基礎部門 - 上級研究員または研究員または特別研究員募集（26-1583） (PI: 部門長：磯 暁)
-    タグ: - | 締切: 2026年12月18日 | 勤務地: 埼玉県和光市 東京都 神奈川県横浜市 兵庫県神戸市
-    https://www.riken.jp/careers/researchers/20261018_1/index.html
+△ [JREC-IN URA / 特定職員【特定有期雇用教職員】の公募（京都大学] 特定職員【特定有期雇用教職員】の公募（京都大学医学部附属病院　先制医療・生活習慣病研究センター ）
+    タグ: - | 締切: 2026年10月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101533
+
+△ [JREC-IN URA / 京都大学] 京都大学 人と社会の未来研究院 特定職員
+    タグ: - | 締切: 2026年10月21 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101515
+
+× [理研] 脳神経科学研究センター 数理脳科学研究チーム - 研究員または特別研究員募集（26-1676） (PI: チームディレクター：豊泉 太郎)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/researchers/20261021_3/index.html
 
 
 ▼ 更新公募
