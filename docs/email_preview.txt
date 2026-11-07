@@ -1,42 +1,28 @@
-件名: [公募Watch] 2026-11-06 新規 8 / 更新 1
+件名: [公募Watch] 2026-11-07 新規 4 / 更新 2
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 【JST】研究開発マネジメント専門員_大学] 【JST】研究開発マネジメント専門員_大学等が行う研究開発のパートナー・定年制登用制度あり
-    タグ: PO/PM系,ファンディング | 締切: 2026年11月05 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110189
+△ [JAMSTEC(via JREC-IN)] 情報地球科学研究部門　データサイエンス研究プログラム　ポストドクトラル研究員の公募　(DGP26-002）
+    タグ: - | 締切: 2026年11月06 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110367
 
-◎ [JST] ファンディング(プロジェクト管理等)／RISTEXが所掌するファンディング事業 / 主任専門員・専門員
-    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
-    https://www.jst.go.jp/saiyou/pdf/bosyu261105_ristex.pdf
+△ [JREC-IN URA / 国立研究開発法人日本医療研究開発機構] AMED任期制職員の募集（A26-54_先進的研究開発戦略センター（SCARDA）先進的研究開発事業部 戦略企画課 感染症有事検討グループ）
+    タグ: - | 締切: 2026年11月06 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110362
 
-△ [JST] 会計・経理／SSH / 事務参事
-    タグ: - | 締切: 随時 | 勤務地: 埼玉県川口市
-    https://www.jst.go.jp/saiyou/pdf/bosyu261106_ssh.pdf
+△ [JREC-IN URA / 国立研究開発法人日本医療研究開発機構] AMED任期制職員の募集（A26-53_先進的研究開発戦略センター（SCARDA）先進的研究開発事業部 戦略企画課）
+    タグ: - | 締切: 2026年11月06 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110361
 
-△ [JAMSTEC(via JREC-IN)] 千葉大学環境リモートセンシング研究センター特任研究員（AIを活用した季節内・季節予測モデルの研究開発）の公募について
-    タグ: - | 締切: 2026年11月05 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110287
-
-△ [JAMSTEC(via JREC-IN)] 【経験者歓迎・未経験可】サイエンスライター外部協力パートナー募集
-    タグ: - | 締切: 2026年11月05 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110235
-
-△ [JREC-IN URA] 内閣府経済社会総合研究所景気統計部 任期付職員（研究専門官）
-    タグ: - | 締切: 2026年11月05 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110272
-
-△ [JREC-IN URA / 国立研究開発法人日本医療研究開発機構] AMED任期制職員の募集（A26-50_再生・細胞医療・遺伝子治療事業部 再生医療研究開発課）
-    タグ: - | 締切: 2026年11月05 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110315
-
-△ [JREC-IN URA / 岡山大学] コーディネーター（地域共創）の公募について
-    タグ: - | 締切: 2026年11月05 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110261
+× [理研] バイオリソース研究センター 遺伝子発現エピゲノム研究チーム - 研究パートタイマー募集（26-1877） (PI: チームディレクター：久保 直樹)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 茨城県つくば市
+    https://www.riken.jp/careers/researchers/20261106_2/index.html
 
 
 ▼ 更新公募
 ------------------------------------------------------------
-・[JST] ファンディング(プロジェクト管理等)／日本の科学技術を変える「研究開発マネジメント人材」 / 研究開発マネジメント専門員
-    https://www.jst.go.jp/personnel/3rd-div/rdm/recruit.html
+・[JREC-IN URA / 岡山大学] コーディネーター（地域共創）の公募について
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110261
+・[JREC-IN URA / 岡山大学] コーディネーター（産学官連携）の公募
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110191
