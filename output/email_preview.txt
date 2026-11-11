@@ -1,30 +1,48 @@
-件名: [公募Watch] 2026-11-10 新規 5 / 更新 1
+件名: [公募Watch] 2026-11-11 新規 10 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 上智大学] 上智大学 リサーチ・アドミニストレーター（URA） 公募
-    タグ: URA/研究推進 | 締切: 2026年11月10 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110532
+△ [理研] 安全・地区統括本部安全管理部 横浜安全管理課 - 事務業務員募集（YG26-1819）
+    タグ: - | 締切: 2026年11月25日 | 勤務地: 神奈川県横浜市
+    https://www.riken.jp/careers/admin/20261111_3/index.html
 
-△ [JREC-IN URA / 明治学院大学] ボランティアセンター　ボランティアコーディネーター募集
-    タグ: - | 締切: 2026年11月09 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110489
+△ [理研] 経理・調達本部 経理部 横浜会計課 - 事務業務員募集（YG26-1818）
+    タグ: - | 締切: 2026年11月25日 | 勤務地: 神奈川県横浜市
+    https://www.riken.jp/careers/admin/20261111_2/index.html
 
-△ [JREC-IN URA] 国際共同プロジェクト推進職員（大気汚染・気候変動等の調査研究分野）公募
-    タグ: - | 締切: 2026年11月09 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110498
+△ [理研] 経理・調達本部 調達部 和光調達第1課・和光調達第2課 - 事務業務員募集（WG26-1816）
+    タグ: - | 締切: 2026年11月25日 | 勤務地: 埼玉県和光市
+    https://www.riken.jp/careers/admin/20261111_1/index.html
 
-△ [JREC-IN URA] 研究員（大気汚染・大気沈着及びその生態影響分野）公募
-    タグ: - | 締切: 2026年11月09 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110495
+△ [NICT] 2027A-87
+    タグ: - | 締切:  | 勤務地: 
+    https://www2.nict.go.jp/employment/tempstaffinfo/admin/R9/2027A-87.pdf
 
-× [理研] 開拓研究所 田中生体機能合成化学研究室 - 特別研究員またはリサーチ・アソシエイト募集（26-1908） (PI: 主任研究員：田中 克典)
+△ [JAMSTEC(via JREC-IN)] 変動海洋エコシステム高等研究所 AIMEC技術研究員（WAE26-003）
+    タグ: - | 締切: 2026年11月10 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110603
+
+△ [JAMSTEC(via JREC-IN)] 技術研究開発部門　スマートセンシング技術開発センター　音響データ解析グループ　特任研究員もしくはポストドクトラル研究員　(KGM26-004）
+    タグ: - | 締切: 2026年11月10 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110591
+
+△ [JREC-IN URA] リサーチマネージャー / Research Manager（湘南R&Dセンター）
+    タグ: - | 締切: 2026年11月10 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110572
+
+× [理研] 環境資源科学研究センター 生体機能触媒研究チーム - 特別研究員募集（26-1912） (PI: チームディレクター：中村 龍平)
     タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261109_2/index.html
+    https://www.riken.jp/careers/researchers/20261110_3/index.html
+
+× [理研] 情報統合本部 基盤研究開発部門 医科学データ共有開発ユニット - 特別研究員またはリサーチ・アソシエイト募集（26-1854） (PI: ユニットリーダー：清田 純)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 東京都
+    https://www.riken.jp/careers/researchers/20261110_4/index.html
+
+× [理研] 生命機能科学研究センター 比較コネクトミクス研究チーム - 特別研究員募集（26-1873） (PI: チームディレクター：宮道 和成)
+    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 兵庫県神戸市
+    https://www.riken.jp/careers/researchers/20261110_2/index.html
 
 
 ▼ 更新公募
 ------------------------------------------------------------
-・[JREC-IN URA / 岡山大学] コーディネーター（地域共創）の公募について
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110261
