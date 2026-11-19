@@ -1,24 +1,44 @@
-件名: [公募Watch] 2026-11-18 新規 3 / 更新 2
+件名: [公募Watch] 2026-11-19 新規 9 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-△ [JREC-IN URA] 【正社員登用前提】研究コーディネーター（企業との共同研究／修士以上）｜サンゴ礁を水槽で再現する環境バイオラボ（東京・高輪）
+◎ [JREC-IN URA / リサーチ・アドミニストレーター（オープンファシリティー推進機構] リサーチ・アドミニストレーター（オープンファシリティー推進機構）
+    タグ: URA/研究推進 | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111322
+
+◎ [JREC-IN URA / 新潟大学] 新潟大学経営戦略本部UA室　専任UA（研究推進）の公募
+    タグ: URA/研究推進 | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111303
+
+△ [JST] データベースユーザ支援（ヘルプデスク）／支援センター(JREC-IN Portal、resarchmap) / 専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu261118_.pdf
+
+△ [JREC-IN URA / 立命館アジア太平洋大学] リサーチ・アドミニストレータ―「契約職員（専門職）」募集要項
     タグ: - | 締切: 2026年11月18 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111226
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111309
 
-× [理研] 光量子工学研究センター テラヘルツ・赤外量子フォトニクス研究チーム - 研究員、特別研究員またはテクニカルスタッフⅠ、テクニカルスタッフⅡ募集（26-1956） (PI: チームディレクター：田中 耕一郎)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261118_2/index.html
+△ [JREC-IN URA / 新潟大学] 新潟大学経営戦略本部UA室　専任UA（ナレッジ・コモンズ創出）の公募
+    タグ: - | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111306
 
-× [理研] 光量子工学研究センター 時空間エンジニアリング研究チーム - 研究員、特別研究員募集（26-1955） (PI: チームディレクター：香取 秀俊)
-    タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261118_1/index.html
+△ [JREC-IN URA / 新潟大学] 新潟大学経営戦略本部UA室　専任UA（大学院改革/人材育成）の公募
+    タグ: - | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111305
+
+△ [JREC-IN URA / 新潟大学] 新潟大学経営戦略本部UA室　専任UA（大学院改革/実践教育）の公募
+    タグ: - | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111302
+
+△ [JREC-IN URA / 新潟大学] 新潟大学経営戦略本部UA室　専任UA（産学イノベーション/ライフサイエンス）の公募
+    タグ: - | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111304
+
+△ [JREC-IN URA / 新潟大学] 新潟大学経営戦略本部UA室　専任UA（IR）の公募
+    タグ: - | 締切: 2026年11月18 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111301
 
 
 ▼ 更新公募
 ------------------------------------------------------------
-・[JREC-IN URA] 【業務委託・フルリモート】全国150以上の研究機関を支える申請書レビュー担当者の募集（人文社会学・教育学分野）
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110829
-・[JREC-IN URA] 【業務委託・フルリモート】全国150以上の研究機関を支える申請書レビュー担当者の募集（自然科学／理工系）
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126110830
