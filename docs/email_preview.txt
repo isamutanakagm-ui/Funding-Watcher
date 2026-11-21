@@ -1,23 +1,27 @@
-件名: [公募Watch] 2026-11-20 新規 4 / 更新 0
+件名: [公募Watch] 2026-11-21 新規 5 / 更新 0
 ============================================================
 
 ▼ 新規公募 (タグ一致優先)
 ------------------------------------------------------------
-◎ [JREC-IN URA / 東京大学] 東京大学　大学院新領域創成科学研究科　リサーチアドミニストレーター（URA）の公募（学術経営戦略支援室）
-    タグ: URA/研究推進 | 締切: 2026年11月20 | 勤務地: 
-    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111443
+◎ [JST] ファンディング(プロジェクト管理等)／戦略的イノベーション創造プログラム（SIP） / 主任専門員
+    タグ: ファンディング | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu261120_sip.pdf
 
-△ [理研] 開拓研究所 根本量子システムアーキテクチャ研究室 - 研究員募集（26-1910） (PI: 主任研究員：根本 香絵)
-    タグ: - | 締切: 2027年1月18日 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261119_3/index.html
+△ [JST] データベースユーザ支援（ヘルプデスク）／支援センター(JREC-IN Portal、resarchmap) / 専門員
+    タグ: - | 締切: 随時 | 勤務地: 東京都千代田区
+    https://www.jst.go.jp/saiyou/pdf/bosyu261118_jrecin.pdf
 
-× [理研] 生命医科学研究センター レトロトランスポゾン動態研究チーム - 研究員または特別研究員募集（26-1564） (PI: チームディレクター：三好 知一郎)
+△ [JAMSTEC(via JREC-IN)] AIMECポストドクトラル特定プロジェクト研究員　（WAP26－002）
+    タグ: - | 締切: 2026年11月20 | 勤務地: 
+    https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126111469
+
+× [理研] 環境資源科学研究センター 植物知覚理研ECL研究ユニット - 特別研究員募集（26-1999） (PI: 理研ECL研究ユニットリーダー：NGOU Bruno Pok Man)
     タグ: - | 締切: 候補者が決まり次第 | 勤務地: 神奈川県横浜市
-    https://www.riken.jp/careers/researchers/20261119_2/index.html
+    https://www.riken.jp/careers/researchers/20261120_2/index.html
 
-× [理研] 開拓研究所 藤原適応運動制御理研白眉研究チーム - パートタイマー募集（26-1896） (PI: 理研白眉研究チームリーダー：藤原 輝史)
+× [理研] 脳神経科学研究センター 神経細胞動態研究チーム - 研究パートタイマーⅠ募集（26-2036） (PI: チームディレクター：上口 裕之)
     タグ: - | 締切: 候補者が決まり次第 | 勤務地: 埼玉県和光市
-    https://www.riken.jp/careers/researchers/20261119_1/index.html
+    https://www.riken.jp/careers/researchers/20261120_1/index.html
 
 
 ▼ 更新公募
